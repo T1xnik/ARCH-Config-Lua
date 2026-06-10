@@ -8,7 +8,7 @@
 > ⚠️ **Не копируйте вслепую. Сначала прочитайте инструкцию и комментарии ниже.**
 
 
-![Изображение ARCH] [screenshot-20260610-225109.png](https://github.com/T1xnik/ARCH-Config-Lua/blob/main/screenshot-20260610-225109.png)
+![Image Arch Use](https://github.com/T1xnik/ARCH-Config-Lua/blob/main/screenshot-20260610-225109.png)
 
 ---
 
