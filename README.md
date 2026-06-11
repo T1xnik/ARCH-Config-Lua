@@ -11,7 +11,7 @@
 ![Image Arch Use](https://github.com/T1xnik/ARCH-Config-Lua/blob/main/screenshot-20260610-225109.png)
 ![Image Arch Terminal/kitty](https://github.com/T1xnik/ARCH-Config-Lua/blob/main/screenshot-20260610-230217.png)
 ![Image Arch Rofi](https://github.com/T1xnik/ARCH-Config-Lua/blob/main/screenshot-20260610-230435.png)
-[Image Arch Lock](https://github.com/T1xnik/ARCH-Config-Lua/blob/main/photo_2026-06-11_11-21-59.jpg)
+![Image Arch Lock](https://github.com/T1xnik/ARCH-Config-Lua/blob/main/photo_2026-06-11_11-21-59.jpg)
 ---
 
 # 📋 Оглавление
